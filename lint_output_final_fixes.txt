@@ -1,0 +1,22 @@
+﻿
+C:\Users\Nitin\OneDrive\Desktop\idea2.0\src\hooks\useVoiceInteraction.ts
+   15:18  error    Unexpected any. Specify a different type                                                                                                                                                                    @typescript-eslint/no-explicit-any
+   23:3   warning  'autoStart' is assigned a value but never used                                                                                                                                                              @typescript-eslint/no-unused-vars
+   59:33  error    Unexpected any. Specify a different type                                                                                                                                                                    @typescript-eslint/no-explicit-any
+   63:9   warning  'isSpeakingChunkRef' is assigned a value but never used                                                                                                                                                     @typescript-eslint/no-unused-vars
+  119:9   warning  'isSentenceComplete' is assigned a value but never used                                                                                                                                                     @typescript-eslint/no-unused-vars
+  186:6   warning  React Hook useCallback has a missing dependency: 'speakQueue'. Either include it or remove the dependency array                                                                                             react-hooks/exhaustive-deps
+  255:24  error    Unexpected any. Specify a different type                                                                                                                                                                    @typescript-eslint/no-explicit-any
+  256:59  warning  'e' is defined but never used                                                                                                                                                                               @typescript-eslint/no-unused-vars
+  295:6   warning  React Hook useCallback has missing dependencies: 'clearSilenceTimer', 'localSpeak', and 'speak'. Either include them or remove the dependency array                                                         react-hooks/exhaustive-deps
+  308:6   warning  React Hook useCallback has an unnecessary dependency: 'updateState'. Either exclude it or remove the dependency array                                                                                       react-hooks/exhaustive-deps
+  482:6   warning  React Hook useCallback has an unnecessary dependency: 'updateState'. Either exclude it or remove the dependency array                                                                                       react-hooks/exhaustive-deps
+  504:42  error    Unexpected any. Specify a different type                                                                                                                                                                    @typescript-eslint/no-explicit-any
+  504:79  error    Unexpected any. Specify a different type                                                                                                                                                                    @typescript-eslint/no-explicit-any
+  518:38  error    Unexpected any. Specify a different type                                                                                                                                                                    @typescript-eslint/no-explicit-any
+  521:25  error    Unexpected any. Specify a different type                                                                                                                                                                    @typescript-eslint/no-explicit-any
+  569:37  error    Unexpected any. Specify a different type                                                                                                                                                                    @typescript-eslint/no-explicit-any
+  600:6   warning  React Hook useEffect has missing dependencies: 'clearSilenceTimer', 'resetIdleTimeout', 'startProcessing', 'startRecognition', and 'startSilenceTimer'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+Γ£û 17 problems (8 errors, 9 warnings)
+

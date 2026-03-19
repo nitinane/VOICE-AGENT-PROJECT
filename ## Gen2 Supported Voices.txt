@@ -1,0 +1,48 @@
+## Gen2 Supported Voices
+
+[Sample](https://murf.ai/public-assets/voice/Amara.mp3)
+[+27 more](https://murf.ai/api/docs/voices-styles/voice-library)
+[Sample](https://murf.ai/public-assets/voice/Maverick.mp3)
+
+###### Thai - Thailand
+[+27 more](https://murf.ai/api/docs/voices-styles/voice-library)
+[Sample](https://murf.ai/public-assets/voice/Ruby.mp3)
+[+27 more](https://murf.ai/api/docs/voices-styles/voice-library)
+[Sample](https://murf.ai/public-assets/voice/Natalie.mp3)
+[+27 more](https://murf.ai/api/docs/voices-styles/voice-library)
+[Sample](https://murf.ai/public-assets/voice/Miles.mp3)
+[+27 more](https://murf.ai/api/docs/voices-styles/voice-library)
+[Sample](https://murf.ai/public-assets/voice/Amara.mp3)
+[+27 more](https://murf.ai/api/docs/voices-styles/voice-library)
+[Sample](https://murf.ai/public-assets/voice/Maverick.mp3)
+
+###### Tagalog - Philippines
+[Sample](https://murf.ai/public-assets/voice/Era%C3%B1o.mp3)
+[+5 more](https://murf.ai/api/docs/voices-styles/voice-library)
+[Sample](https://murf.ai/public-assets/voice/Theo.mp3)
+[+27 more](https://murf.ai/api/docs/voices-styles/voice-library)
+[Sample](https://murf.ai/public-assets/voice/Natalie.mp3)
+[+27 more](https://murf.ai/api/docs/voices-styles/voice-library)
+[Sample](https://murf.ai/public-assets/voice/Miles.mp3)
+[+27 more](https://murf.ai/api/docs/voices-styles/voice-library)
+[Sample](https://murf.ai/public-assets/voice/Amara.mp3)
+
+###### Vietnamese - Vietnam
+[+27 more](https://murf.ai/api/docs/voices-styles/voice-library)
+[Sample](https://murf.ai/public-assets/voice/Ruby.mp3)
+[+27 more](https://murf.ai/api/docs/voices-styles/voice-library)
+[Sample](https://murf.ai/public-assets/voice/Natalie.mp3)
+[+27 more](https://murf.ai/api/docs/voices-styles/voice-library)
+[Sample](https://murf.ai/public-assets/voice/Miles.mp3)
+[+27 more](https://murf.ai/api/docs/voices-styles/voice-library)
+[Sample](https://murf.ai/public-assets/voice/Amara.mp3)
+[+27 more](https://murf.ai/api/docs/voices-styles/voice-library)
+[Sample](https://murf.ai/public-assets/voice/Maverick.mp3)
+[Previous](https://murf.ai/api/docs/voices-styles/overview)
+[Voice CloningNext](https://murf.ai/api/docs/voices-styles/voice-cloning)
+
+#### Voice Cloning
+[Built with](https://buildwithfern.com/?utm_campaign=buildWith&utm_medium=docs&utm_source=murf.ai)
+[Pricing](https://murf.ai/pricing?product=api)
+[.fa-secondary{opacity:.4}Join Community](https://discord.gg/FbKAy96Sz7)
+[Get API Key](https://murf.ai/api/dashboard?utm_source=murf_api_docs)
